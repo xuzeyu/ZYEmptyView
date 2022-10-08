@@ -1,0 +1,5 @@
+source 'https://cdn.cocoapods.org/'
+platform :ios, '9.0'
+target :'ZYEmptyView' do
+pod 'LYEmptyView' #空白页面占位图
+end
